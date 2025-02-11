@@ -38,7 +38,10 @@ Our mission is to **leverage AI for better healthcare**, ensuring that early det
 ![HealthTorch](https://github.com/muhdaliyan/healthtorch/blob/main/Media/1.png)  
 
 # SS 2
-![HealthTorch](https://github.com/muhdaliyan/healthtorch/blob/main/Media/2.png)  
+![HealthTorch](https://github.com/muhdaliyan/healthtorch/blob/main/Media/2.png) 
+
+## Video Demo 
+https://youtu.be/oZHlcekK8pM
 
 
 🚀 *Stay tuned for updates!*  
