@@ -1,10 +1,44 @@
-# healthtorch
- Health Torch
+# 🔥 HealthTorch  
+🚀 *AI-powered Lung Cancer Prediction System*  
 
-# AI Project
-### Project to predict Lung cancer
+
+
+---
+
+## 🏥 About the Project  
+**HealthTorch** is an AI-driven project designed to predict **lung cancer** based on various health indicators.  
+Using machine learning, we analyze risk factors to provide **early detection and better insights** for proactive healthcare.  
+
+---
+
+## 👥 Team Behind the Torch  
+- 🧠 **M. Aliyan**  
+- 🦘 **Taha Rizwaan**  
+- 🔬 **Basit Raza**  
+- 😶‍🌫️ **Talha**  
+
+---
+
+## 📌 Features  
+✅ AI-powered lung cancer risk prediction  
+✅ User-friendly health assessment  
+✅ Data-driven insights for early detection  
+
+---
+
+## 🎯 Vision  
+Our mission is to **leverage AI for better healthcare**, ensuring that early detection leads to better treatment outcomes.  
+
+---
 # Team
-### M Aliyan
-### Taha Rizwaan
-### Basit raza
-### Talha
+![HealthTorch](https://github.com/muhdaliyan/healthtorch/blob/main/Media/0.png)  
+
+# SS 1
+
+![HealthTorch](https://github.com/muhdaliyan/healthtorch/blob/main/Media/1.png)  
+
+# SS 2
+![HealthTorch](https://github.com/muhdaliyan/healthtorch/blob/main/Media/2.png)  
+
+
+🚀 *Stay tuned for updates!*  
